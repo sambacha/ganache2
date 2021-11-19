@@ -1,0 +1,1 @@
+{"version":3,"file":"cache.d.ts","sourceRoot":"","sources":["../../../src/forking/cache.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,OAAO,IAAI,WAAW,EAAE,MAAM,iBAAiB,CAAC;AAClE,OAAO,KAAK,MAAM,iCAAiC,CAAC;AACpD,OAAO,EAAE,WAAW,EAAE,MAAM,iBAAiB,CAAC;AAG9C,qBAAa,SAAU,SAAQ,KAAK;gBACtB,IAAI,EAAE,WAAW;IAI7B;;;OAGG;IACH,cAAc,YAAmB,WAAW,sBAG1C;CACH"}

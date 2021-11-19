@@ -1,0 +1,1 @@
+{"version":3,"file":"executables.d.ts","sourceRoot":"","sources":["../../../src/miner/executables.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,MAAM,+BAA+B,CAAC;AACjE,OAAO,EAAE,IAAI,EAAE,MAAM,gBAAgB,CAAC;AAEtC,oBAAY,WAAW,GAAG;IACxB,UAAU,EAAE,GAAG,CAAC,gBAAgB,CAAC,CAAC;IAClC,OAAO,EAAE,GAAG,CAAC,MAAM,EAAE,IAAI,CAAC,gBAAgB,CAAC,CAAC,CAAC;CAC9C,CAAC"}

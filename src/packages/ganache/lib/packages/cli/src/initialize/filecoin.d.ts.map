@@ -1,0 +1,1 @@
+{"version":3,"file":"filecoin.d.ts","sourceRoot":"","sources":["../../../../../../cli/src/initialize/filecoin.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,mBAAmB,CAAC;AAElD,yBACE,QAAQ,EAAE,QAAQ,EAClB,cAAc,EAAE;IAAE,IAAI,EAAE,MAAM,CAAC;IAAC,IAAI,EAAE,MAAM,CAAA;CAAE,iBAwC/C"}

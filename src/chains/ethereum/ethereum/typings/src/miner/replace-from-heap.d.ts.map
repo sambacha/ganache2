@@ -1,0 +1,1 @@
+{"version":3,"file":"replace-from-heap.d.ts","sourceRoot":"","sources":["../../../src/miner/replace-from-heap.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,IAAI,EAAE,MAAM,gBAAgB,CAAC;AAC3C,OAAO,KAAK,EAAE,gBAAgB,EAAE,MAAM,+BAA+B,CAAC;AAEtE,MAAM,CAAC,OAAO,UAAU,eAAe,CACrC,MAAM,EAAE,IAAI,CAAC,gBAAgB,CAAC,EAC9B,MAAM,EAAE,IAAI,CAAC,gBAAgB,CAAC,WAc/B"}

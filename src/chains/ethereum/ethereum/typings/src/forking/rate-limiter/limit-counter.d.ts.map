@@ -1,0 +1,1 @@
+{"version":3,"file":"limit-counter.d.ts","sourceRoot":"","sources":["../../../../src/forking/rate-limiter/limit-counter.ts"],"names":[],"mappings":"AAaA,qBAAa,YAAY;IACvB,OAAO,CAAC,QAAQ,CAAiC;IACjD,OAAO,CAAC,YAAY,CAAS;IAC7B,OAAO,CAAC,SAAS,CAAS;gBAEd,YAAY,EAAE,MAAM;IAIhC,OAAO,CAAC,KAAK;IAcb,SAAS,CAAC,aAAa,EAAE,MAAM;IAW/B,GAAG,CAAC,aAAa,EAAE,MAAM,EAAE,cAAc,EAAE,MAAM;CAYlD"}

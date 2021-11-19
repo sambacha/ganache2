@@ -1,0 +1,1 @@
+{"version":3,"file":"assert-arg-length.d.ts","sourceRoot":"","sources":["../../../src/helpers/assert-arg-length.ts"],"names":[],"mappings":"AAAA,aAAK,SAAS,GAAG,CAAC,IAAI,EAAE,OAAO,EAAE,GAAG,IAAI,EAAE,GAAG,EAAE,KAAK,OAAO,CAAC;AAC5D,aAAK,0BAA0B,CAAC,CAAC,SAAS,SAAS,IAAI,uBAAuB,CAC5E,CAAC,CACF,CAAC;AACF,wBAAgB,eAAe,CAAC,GAAG,EAAE,MAAM,EAAE,GAAG,GAAE,MAAY,wJAsB7D"}
